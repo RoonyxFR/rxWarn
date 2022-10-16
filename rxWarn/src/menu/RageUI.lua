@@ -17,7 +17,7 @@ print("^1[Créateur] : Roonyx.^0")
 print("")
 print("^2[Description] : Menu de warn avec divers options [rxWarn]^0")
 print("")
-print("^3[Discord] : discord.gg/JnZjSZj^0")
+print("^3[Discord] : discord.gg/p4Yjg9eMGx^0")
 
 function math.round(num, numDecimalPlaces)
     return tonumber(string.format("%." .. (numDecimalPlaces or 0) .. "f", num))
